@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjupy
-- 👀 I’m interesting in Exploring things.
-- 🌱 I’m currently learning Science of Data.
+- 👀 I’m interesting in Exploring data.
+- 🌱 I’m currently learning Science of Big Data.
 - 💞️ I’m looking to collaborate on projects involving ML,NLP,Data Preprocessing, Data Visualization and many more.
 - 📫 Feel free to connect me on linkedIn: www.linkedin.com/in/anjuman-shaheen-299229172
 
